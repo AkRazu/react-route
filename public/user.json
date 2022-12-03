@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-4_odrfr7.jpg",
+      "name": "Debra Ayala",
+      "company": "ESSENSIA"
+    },
+    {
+      "id": 2,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-3_f44spv.jpg",
+      "name": "Browning Rose",
+      "company": "CUBICIDE"
+    },
+    {
+      "id": 3,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-6_uhseph.jpg",
+      "name": "Janis Fischer",
+      "company": "SARASONIC"
+    },
+    {
+      "id": 4,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-5_z90u6k.jpg",
+      "name": "Casey Pollard",
+      "company": "PYRAMIA"
+    },
+    {
+      "id": 5,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-2_fbt4xi.jpg",
+      "name": "Reeves Sampson",
+      "company": "LIMAGE"
+    },
+    {
+      "id": 6,
+      "picture": "https://res.cloudinary.com/ddhzjwhit/image/upload/v1670079516/samples/user/user-1_bhgcof.jpg",
+      "name": "Willie Parks",
+      "company": "UPDAT"
+    }
+  ]

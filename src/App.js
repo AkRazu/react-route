@@ -1,10 +1,17 @@
-import './App.css';
 import Navbar from './components/Navbar/Navbar';
+import { Route, Routes } from "react-router-dom"
+import Hero from './components/Hero/Hero';
+import Reviews from './components/Reviews/Reviews';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Navbar/>
+      <Routes>
+        <Route path='/' element={<Hero/>}>
+          <Route path='/' element={<Reviews/>}></Route>
+        </Route>
+      </Routes>
     </div>
   );
 }
