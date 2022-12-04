@@ -36,7 +36,6 @@ const Dashboard = () => {
             </h1>
             <ResponsiveContainer width={300} height={300} data={charts}>
               <PieChart width={400} height={400}>
-                <Tooltip />
                 <Pie
                   data={charts}
                   dataKey="investment"
@@ -55,6 +54,7 @@ const Dashboard = () => {
                   fill="#3A4352"
                   label
                 />
+                <Tooltip />
               </PieChart>
             </ResponsiveContainer>
           </div>
