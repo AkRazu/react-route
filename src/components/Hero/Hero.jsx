@@ -16,8 +16,9 @@ const Hero = () => {
             <h1 className="md:text-7xl text-4xl font-bold uppercase text-[#333333]">
               Henderson 3A electric bike
             </h1>
+            <p className="mt-9 font-medium text-gray-400">The Force was built for riders, like the EWS powerhouses of GT Factory Racing, whom are more concerned about hauling ass than paying attention to ever-changing standards and trends.</p>
           </div>
-          <div className="btn md:mt-24 mt-10 flex ">
+          <div className="btn md:mt-10 mt-10 flex ">
             <Link to="/" className=" flex flex-wrap">
               <span className="px-10 text-xl font-bold py-3 bg-[#E8E8E8]">$480</span>
               <span className="p-4 bg-[#F55155]">
