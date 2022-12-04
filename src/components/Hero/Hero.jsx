@@ -1,7 +1,7 @@
 import React from "react";
-import images from "../images/bg-bike.png";
+import images from "../images/bg-1.png";
 import { ChevronDoubleRightIcon } from "@heroicons/react/24/solid";
-import {Link, NavLink, Outlet} from "react-router-dom";
+import {Link, Outlet} from "react-router-dom";
 
 
 const Hero = () => {

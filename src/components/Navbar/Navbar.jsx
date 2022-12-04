@@ -16,7 +16,7 @@ const Navbar = () => {
                     {open ? <XMarkIcon className='w-9' /> : <Bars3Icon className='w-9' />}
                 </span>
             </div>
-            <nav className={`md:flex justify-evenly items-center w-full text-center h-20 md:sticky duration-500 ease-in  absolute ${open ? 'top-20' : 'top-[-490px]'}`}>
+            <nav className={`md:flex justify-evenly items-center w-full text-center h-20 md:static duration-500 ease-in  absolute ${open ? 'top-20' : 'top-[-490px]'}`}>
                 <div className="logo md:block hidden">
                     <img className='w-auto' src={images} alt="Logo" />
                 </div>
