@@ -2,7 +2,6 @@ import React from "react";
 import { PuffLoader } from "react-spinners";
 import CustomerReview from "../CustomerReview/CustomerReview";
 import useHookUser from "../HookUser/HookUser";
-import ClipLoader from "react-spinners/ClipLoader";
 
 const MainReview = () => {
   const [users, setUsers] = useHookUser([]);
